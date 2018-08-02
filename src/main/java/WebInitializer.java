@@ -8,6 +8,7 @@ import javax.servlet.*;
 ;import java.util.EnumSet;
 
 /**
+ * 取代web.xml
  * @author songjunbao
  * @createdate 2018/6/13
  */
